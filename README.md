@@ -132,6 +132,5 @@ insurance-cost-prediction/
 │   └── insurance_cost_model.pkl
 │
 ├── requirements.txt
-├── README.md
-└── images/
+└── README.md
 ```
