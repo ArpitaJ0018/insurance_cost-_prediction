@@ -121,7 +121,15 @@ The project successfully built a regression model to predict medical insurance c
 ## 📁 Project Structure
 insurance-cost-prediction/
 │
-├── insurance.csv                    # Dataset
-├── insurance_cost_prediction.ipynb  # Main notebook
-├── insurance_cost_model.pkl         # Saved model (optional)
-└── README.md                        # Project documentation
+├── data/
+│   └── insurance.csv
+│
+├── notebooks/
+│   └── insurance_cost_prediction.ipynb
+│
+├── models/
+│   └── insurance_cost_model.pkl
+│
+├── requirements.txt
+├── README.md
+└── images/
