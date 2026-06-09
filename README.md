@@ -119,6 +119,7 @@ The project successfully built a regression model to predict medical insurance c
 ---
 
 ## 📁 Project Structure
+```text
 insurance-cost-prediction/
 │
 ├── data/
@@ -133,3 +134,4 @@ insurance-cost-prediction/
 ├── requirements.txt
 ├── README.md
 └── images/
+```
